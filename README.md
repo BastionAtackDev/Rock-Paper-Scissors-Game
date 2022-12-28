@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-Game🪨✂️
+# Rock-Paper-Scissors-Game🪨✂️📝
  Simple Rock-Paper-Scissors game
